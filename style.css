@@ -1,0 +1,30 @@
+html {
+  background: url("img/download.jpg");
+}
+
+body {
+  background: white;
+  width: 600px;
+  margin: 25px auto;
+  padding: 25px 125px 50px;
+  border-style: solid;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+}
+
+h1 {
+  text-align: center;
+}
+
+#ruffle {
+  background: rgb(243, 94, 94);
+  border: 3px solid black;
+}
+
+#takis {
+  background: rgb(243, 94, 94);
+  border: 3px solid black;
+}
